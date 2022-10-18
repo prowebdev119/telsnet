@@ -8,7 +8,6 @@ html {
 
 .contact_header {
     padding: 10px 74px;
-    /* height: 48px; */
     background: #f1f1f1;
     display: flex;
     justify-content: space-between;
@@ -35,7 +34,6 @@ a.active, a:hover{
 
 .navigation {
     background: #f4f8fb;
-    /* padding: 0 74px; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -164,11 +162,6 @@ p {
     font-size: 22px;
     line-height: 36px;
 }
-/* .indicate_circle{
-    width: 10px!important;
-    height: 10px!important;
-    border-radius: 50%;
-} */
 .carousel-indicators .active{
     background-color: #9abd37!important;
 }
