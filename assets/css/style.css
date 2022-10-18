@@ -466,12 +466,7 @@ p {
     justify-content: center;
 }
 .footer .footer-adress{
-    /* padding-left:70px; */
-    /* padding-top:45px; */
     align-self:flex-start;
-}
-.footer .footer-adress p{
-    /* padding-bottom: 17px; */
 }
 .footer .footer-adress h5{
     padding-bottom: 17px;;
